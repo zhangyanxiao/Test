@@ -22,7 +22,7 @@
     
     
     UIView * view1 = [[UIView alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
-    view1.backgroundColor = [UIColor yellowColor];
+    view1.backgroundColor = [UIColor blueColor];
     [self.view addSubview:view1];
     
 }
